@@ -1,0 +1,51 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0 auto;
+	text-align: center;
+	background-color: gray;
+	color: white;
+
+	
+}
+
+img { 
+	width: 150px;
+	height: 150px;
+	}
+
+.contactForm {
+	margin: 50px 0;
+}
+
+.contactEmail {
+	text-decoration: none;
+	color: white;
+}
+
+.contactItem {
+	margin-bottom: 30px;
+}
+
+input{ 
+width: 200px;
+height: 30px;
+text-align: center;
+ }
+
+ button{
+   background-color: #4cf25c; 
+    border: none;
+    color: white;
+    width: 100px;
+ 	height: 30px;
+    text-align: center;
+    text-decoration: none;
+
+    }
+button:hover {
+	cursor: pointer;
+}
+
